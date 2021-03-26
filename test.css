@@ -1,0 +1,143 @@
+
+.form-control{
+  font-weight: bold;
+  font-size: 18px;
+  padding: 1rem ;
+
+}
+
+.btn {
+padding:  8% 15% ;
+}
+
+.input-btn{
+    margin: 5% 10% 5% 0;
+}
+
+.progress-bar bg-danger{
+  color: #ff6666;
+}
+
+.days-left1{
+  color: #ff6666;
+  margin-right: 2px;
+
+}
+
+.link-primary{
+color:#00BFFF;
+
+}
+
+.money-bgrd{
+  background-color:#323232;
+  padding: 4% ;
+  border-radius: 5px;
+}
+
+.money-needed{
+  color: #ffffff;
+  text-align: center;
+  font-size: 18px;
+}
+
+p {
+  color: #8f8f8f;
+
+}
+
+.white-section{
+  background-color: #fff;
+  padding-bottom: 4%;
+}
+
+.money-project {
+width: 450px;
+
+}
+
+.fund-project{
+  border-right-style: ridge;
+  border-left-style: ridge;
+  border-bottom-style: ridge;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 28px;
+}
+
+
+.link-primary{
+position: relative;
+top: 10px;
+}
+
+#div1-button{
+  position: absolute;
+  width: 100%;
+}
+
+
+.btn-success{
+  font-size: 18px;
+  width: 155px;
+  font-weight: bold;
+  height: 60px;
+}
+
+
+.col-btn{
+  padding: 5% ;
+}
+
+
+
+.myButton1 {
+  box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:2px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:15px 35px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+
+}
+.myButton2 {
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	background-color:#ffffff;
+	border-radius:6px;
+	border:2px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:15px 26px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	background-color:#f6f6f6;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
